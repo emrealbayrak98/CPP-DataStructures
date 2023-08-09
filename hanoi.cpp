@@ -1,9 +1,3 @@
-//
-//  main.cpp
-//  hanoi
-//
-//  Created by İsmail Uyanik on 10/7/22.
-//
 
 #include <iostream>
 
