@@ -1,9 +1,3 @@
-//
-//  Node.h
-//  LinkedBag
-//
-//  Created by İsmail Uyanik on 10/20/22.
-//
 
 #ifndef Node_h
 #define Node_h
